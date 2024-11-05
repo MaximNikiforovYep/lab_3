@@ -15,7 +15,8 @@
 - Установленные библиотеки:
   - tkinter
   - matplotlib
-  
+Подробнее см. requirements.txt
+
 ### Установка библиотек:
 Если библиотека matplotlib не установлена, её можно установить с помощью pip:
 - pip install matplotlib
